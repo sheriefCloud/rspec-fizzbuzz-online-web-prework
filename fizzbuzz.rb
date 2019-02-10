@@ -8,8 +8,8 @@ def fizzbuzz (n)
 #    message = "Buzz"
 #  elsif n % 3 == 0
 #    message = "Fizz"
-  else
-    return nil
+#  else
+#    return nil
 return message
 
 
